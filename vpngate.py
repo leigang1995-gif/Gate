@@ -460,8 +460,8 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "www.dbs.com.sg:443,cf.itv888.cn:443,www.5h.com:443,www.zendesk.com:443,"
-        "cmcc.cc.cd:443,fn.130519.xyz:443,cnllm.com:443",
+        "www.dbs.com.sg:443,cf.itv888.cn:443,www.dg22.top:443,www.zendesk.com:443,"
+        "cmcc.cc.cd:443,staticdelivery.nexusmods.com:443,ex.warspite.dpdns.org:443",
     ).split(",")
     if h.strip()
 ]
